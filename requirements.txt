@@ -1,0 +1,19 @@
+# Core dependencies
+transformers==4.41.1
+torch==2.3.0
+tqdm
+numpy
+pandas
+
+# Notebook & visualization
+jupyterlab
+matplotlib
+seaborn
+
+# Optional utilities
+scikit-learn
+ipykernel
+tokenizers==0.19.1
+
+# File handling (optional if you work with file formats)
+python-dotenv
