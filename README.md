@@ -25,13 +25,20 @@ This was done using a simplified architecture and smaller dataset, so output qua
 - **Generation**: Output is generated using the trained model and tokenizer.
 
 ---
-Raw Dataset (.csv/txt) ─▶ Cleaning & Merging ─▶ Custom Tokenizer (BPE) ─▶ Tokenized Data (.pt chunks)
-                                                                 ▼
-                                        GPT2-like Transformer (Configurable)
-                                                                 ▼
-                                                Training (with Trainer API)
-                                                                 ▼
-                                        Trained Model + Checkpoints
+FLOW CHART
+
+![FLOW chart](https://github.com/user-attachments/assets/4c1a79e5-0804-47ab-9fdf-41708e0b5fcc)
+
+---
+
+🔁 Training in Progress
+
+![Training Screenshot 1](![Screenshot 2025-07-09 000534](https://github.com/user-attachments/assets/ac8ac04c-9a35-4f19-a9de-f9c40d15514d)
+)
+
+![Training Screenshot 3](![Screenshot 2025-07-09 000828](https://github.com/user-attachments/assets/48009cba-5a93-479f-8c8e-2f03d4a54683)
+)
+*Training completed and model saved locally.*
 
 ---
 
