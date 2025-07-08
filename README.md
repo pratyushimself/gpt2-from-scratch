@@ -27,7 +27,7 @@ This was done using a simplified architecture and smaller dataset, so output qua
 ---
 FLOW CHART
 
-(https://github.com/user-attachments/assets/4c1a79e5-0804-47ab-9fdf-41708e0b5fcc)
+![FLOW chart](https://github.com/user-attachments/assets/af081798-b8a1-4705-9b1c-2c511898dfde)
 
 ---
 
