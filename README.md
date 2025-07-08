@@ -41,15 +41,16 @@ This version was trained on a small chunked subset of OpenWebText — **just 20 
 **Bigger and more authentic data leads to better results.**
 
 ---
-🛠️ Project Structure
- 
-gpt2_custom_model/	      Trained model & checkpoints
-tokenizer_gpt2_custom/	  Custom tokenizer files
-token_chunks/	           Training chunks (only 20 used here)
-train_from_chunks.ipynb  Full training notebook
-train_tokenizer.ipynb    BPE tokenizer training
-test_custom_GPT2.ipynb	  Testing the model
-generate_text.py	        Script for text generation
+## 🛠️ Project Structure
+
+- `gpt2_custom_model/` — Trained model & checkpoints  
+- `tokenizer_gpt2_custom/` — Custom tokenizer files  
+- `token_chunks/` — Training chunks (only 20 used here)  
+- `train_from_chunks.ipynb` — Full training notebook  
+- `train_tokenizer.ipynb` — BPE tokenizer training  
+- `test_custom_GPT2.ipynb` — Testing the model  
+- `generate_text.py` — Script for text generation  
+
 
 ## 🚀 How to Run
 
